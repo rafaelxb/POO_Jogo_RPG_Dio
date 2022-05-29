@@ -1,0 +1,15 @@
+C:\Atividades DIO\RPG com POO\bin\Debug\net6.0\RPG com POO.exe
+C:\Atividades DIO\RPG com POO\bin\Debug\net6.0\RPG com POO.deps.json
+C:\Atividades DIO\RPG com POO\bin\Debug\net6.0\RPG com POO.runtimeconfig.json
+C:\Atividades DIO\RPG com POO\bin\Debug\net6.0\RPG com POO.dll
+C:\Atividades DIO\RPG com POO\bin\Debug\net6.0\RPG com POO.pdb
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.csproj.AssemblyReference.cache
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.AssemblyInfoInputs.cache
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.AssemblyInfo.cs
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.csproj.CoreCompileInputs.cache
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.dll
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\refint\RPG com POO.dll
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.pdb
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\RPG com POO.genruntimeconfig.cache
+C:\Atividades DIO\RPG com POO\obj\Debug\net6.0\ref\RPG com POO.dll
